@@ -1,0 +1,5 @@
+archive/**
+.env
+.ipynb_checkpoints/
+deleted_likes.txt
+deleted_tweets.txt
